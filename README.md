@@ -1,0 +1,1 @@
+I'm Thadeu, ruby developer and javascript programmer!
