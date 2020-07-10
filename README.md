@@ -1,1 +1,1 @@
-I'm Thadeu, ruby developer and javascript programmer!
+I'm thadeu, ruby developer and javascript programmer!
