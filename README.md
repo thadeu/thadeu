@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [AtendeSimples](https://www.atendesimples.com/) and I’m looking for help with 🤝 [branca-ruby](https://github.com/thadeu/branca-ruby)
 - 💬 Ask me about **rails, react, redis and aws**
 - 📄 Know about my experiences [https://www.linkedin.com/in/thadeuestevesjr/](https://www.linkedin.com/in/thadeuestevesjr/)
+- 🎓 I'm certified AWS and Redis
+- 📚 I love read many books about programming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
