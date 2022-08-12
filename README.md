@@ -10,7 +10,5 @@
 Sometimes I write in my [Linkedin](https://linkedin.com/in/thadeuestevesjr) and daily expand my network on my [Twitter](https://twitter.com/iamthadeu)
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thadeu&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&custom_title=Github Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thadeu&langs_count=6&layout=compact&theme=onedark" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thadeu&langs_count=6&layout=compact&theme=onedark" /> 
 </div>
