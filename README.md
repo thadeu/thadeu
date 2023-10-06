@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 
 💭 About me
-- 🔭 I’m currently working on [AtendeSimples](https://www.atendesimples.com/) and I’m looking for help with 🤝 [branca-ruby](https://github.com/thadeu/branca-ruby)
+- 🔭 I’m currently working on [AtendeSimples](https://www.atendesimples.com/)
 - 💬 Ask me about **rails, react, redis and aws**
 - 📄 Know about my experiences [https://www.linkedin.com/in/thadeuestevesjr/](https://www.linkedin.com/in/thadeuestevesjr/)
 - 🎓 I'm certified AWS and Redis
