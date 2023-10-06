@@ -11,8 +11,8 @@
 💎 My current libraries
 
 - Simple and powerfull extension to VSCode, it's used per 10k+ developers [vscode-run-rspec-file](https://github.com/thadeu/vscode-run-rspec-file)
-- Run AWS SaaS locally [jest-localstack-preset](https://github.com/thadeu/jest-localstack-preset)
-- Encrypt and decrypt data safelly [branca-ruby](https://github.com/thadeu/branca-ruby)
+- Run AWS SaaS locally using Jest or Vitest [jest-localstack-preset](https://github.com/thadeu/jest-localstack-preset)
+- Encrypt and decrypt data safely [branca-ruby](https://github.com/thadeu/branca-ruby)
 - Using Monad in your Ruby code [zx-monads](https://github.com/thadeu/zx-monads)
 - A beatiful and safe result object pattern using Ruby [zx-result](https://github.com/thadeu/zx-result)
 
