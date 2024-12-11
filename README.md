@@ -15,7 +15,7 @@
 - JS: Run AWS Saas locally using Vitest (Vite) [vitest-localstack](https://github.com/thadeu/vitest-localstack)
 - JS: A simple and lightweight library to replace variables in the JSON template [dry-replacer-js](https://github.com/thadeu/dry-replacer-js)
 - JS: Using predicates to filter array [recollect-array-js](https://github.com/thadeu/recollect-array-js)
-- Ruby: Using predicates to filter array like Ransack predicates [revector](github.com/thadeu/revector)
+- Ruby: Using predicates to filter array like Ransack predicates [revector](https://github.com/thadeu/revector)
 - Ruby: Encrypt and decrypt data safely [branca-ruby](https://github.com/thadeu/branca-ruby)
 - Ruby: Using Monad in your Ruby code [zx-monads](https://github.com/thadeu/zx-monads)
 - Ruby: A beatiful and safe result object pattern using Ruby [zx-result](https://github.com/thadeu/zx-result)
