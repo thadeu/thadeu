@@ -10,6 +10,7 @@
 
 💎 My current libraries
 
+- Ract: A lightweight Ruby implementation for Promises like JavaScript [ract](https://github.com/thadeu/ract)
 - VSCode: Simple and powerfull extension to VSCode, it's used per 10k+ developers [vscode-run-rspec-file](https://github.com/thadeu/vscode-run-rspec-file)
 - JS: Run AWS SaaS locally using Jest [jest-localstack-preset](https://github.com/thadeu/jest-localstack-preset)
 - JS: Run AWS Saas locally using Vitest (Vite) [vitest-localstack](https://github.com/thadeu/vitest-localstack)
