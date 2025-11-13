@@ -70,7 +70,7 @@ developer = {
 <tr>
 <td><a href="https://github.com/thadeu/gokku"><b>Gokku</b></a></td>
 <td>🔗 An git-push deployment alternative to deploy your self-hosted applications</i></td>
-<td><img src="[https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white](https://img.shields.io/badge/Go-2496ED?style=for-the-badge&logo=go&logoColor=white)"></td>
+<td><img src="https://img.shields.io/badge/Golang-2496ED?style=flat&logo=golang&logoColor=white](https://img.shields.io/badge/Golang-2496ED?style=for-the-badge&logo=go&logoColor=white"></td>
 <td><img src="https://img.shields.io/github/stars/thadeu/gokku?style=social"></td>
 </tr>
 
