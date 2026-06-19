@@ -68,10 +68,10 @@ developer = {
 </tr>
 
 <tr>
-<td><a href="https://github.com/thadeu/gokku"><b>Gokku</b></a></td>
-<td>🔗 An git-push deployment alternative to deploy your self-hosted applications</i></td>
+<td><a href="https://github.com/thadeu/clowk-voodu"><b>Clowk Voodu</b></a></td>
+<td>🔗 Self-hosted PaaS. Commitless deploys.</i></td>
 <td><img src="https://img.shields.io/badge/Golang-2496ED?style=flat&logo=golang&logoColor=white](https://img.shields.io/badge/Golang-2496ED?style=for-the-badge&logo=go&logoColor=white"></td>
-<td><img src="https://img.shields.io/github/stars/thadeu/gokku?style=social"></td>
+<td><img src="https://img.shields.io/github/stars/thadeu/clowk-voodu?style=social"></td>
 </tr>
 
 <tr>
