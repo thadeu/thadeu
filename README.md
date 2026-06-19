@@ -32,7 +32,6 @@ developer = {
 ```
 
 > [!NOTE]
->- 🔭 Currently working at **[AtendeSimples](https://www.atendesimples.com/)**
 >- 💬 Ask me about **Rails, React, Redis and AWS**
 >- 🎓 **AWS Certified** and **Redis Certified** professional
 >- 📚 Avid reader of programming books
